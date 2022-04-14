@@ -22,4 +22,12 @@ Migrate database:
 python manage.py migrate
 ```
 
+Run server:
+
+```bash
+python manage.py runserver
+```
+
+This will be available on port "http://127.0.0.1:8000/"
+
 
