@@ -7,7 +7,7 @@ Hi, Team ! 😄
 To run the project locally
 
 ```bash
-git clone 
+git clone https://github.com/JATTYz/Django-Quiz-Application.git
 ```
 
 Install the requirements:
