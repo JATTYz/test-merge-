@@ -1,4 +1,4 @@
-# Django-Quiz-Application
+# Django-Quiz-Application-Technology-Enquiry-Project
 
 Hi, Team ! 😄 
 
